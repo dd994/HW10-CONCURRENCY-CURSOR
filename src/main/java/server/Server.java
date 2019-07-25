@@ -1,7 +1,5 @@
 package main.java.server;
 
-
-
 public class Server extends Thread {
     private String request;
     private HttpMethods meth;
